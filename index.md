@@ -19,7 +19,7 @@ Here's a collection of things I've done that might be of interest. You may also 
 - [Safety guidelines for petrol-powered garden products](docs/DSB120_CW2_Guidance.pdf) _(Group report)_
 - [Hierarchies of legislation and standards and their interaction in controlling product safety](docs/DSB120_CW1_Regulations_&_Standards.pdf)
 - Supplement App User Research (temporarily redacted for anonymity concerns)
-- <!--(remove identity: DSB119 CW1 User Research)-->
+<!--(remove identity: DSB119 CW1 User Research)-->
 - [Supplement App ("SCOOP")Development Process](docs/DSB119_CW2_App_Development.pdf)
 - [Supplement App ("SCOOP") Axure Prototype](http://8tz1bh.axshare.com/)
 - [IMDb Usability Testing](docs/DSB118_CW1_Usability_Testing.pdf)
@@ -64,11 +64,11 @@ With the help of YouTube, friends and books, I have taught myself to program in 
 
 ### Photography
 I've taken over 10,000 photos of gymnasts competing, mostly from the Loughborough club. Here are a few of my favourites:
-![Gymnastics Tkatchev](img/Gym1.jpg)
 ![Gymnastics beam mount](img/Gym2.jpg)
 ![Gymnastics Healy](img/Gym3.jpg)
 ![Gymnastics pommel flare](img/Gym4.jpg)
 ![Gymnastics synchronised straight back](img/Gym5.jpg)
+![Gymnastics Tkatchev](img/Gym1.jpg)
 
 ### Leatherwork
 I make belts, bags, knife sheaths, notebooks and wrist pads (among other things) in the leatherworking I set up:

@@ -1,0 +1,33 @@
+.filterbutton input
+{
+	display:none;
+}
+
+.filterbutton
+{
+	margin:0.2rem;
+	padding:0;
+	display:inline-block;
+}
+
+input + .switch
+{
+	color:white;
+	cursor:pointer;
+	margin:0;
+	padding:0.2rem 0.4rem 0.2rem 0.4rem;
+	background-color: #aaa;
+	-webkit-transition: .2s;
+	transition: .2s;
+	border-radius:.5rem;
+}
+
+input:checked + .switch
+{
+	background-color: #4AE;	
+}
+
+.hidden
+{
+	display:none;
+}

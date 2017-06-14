@@ -31,3 +31,10 @@ input:checked + .switch
 {
 	display:none;
 }
+
+.svg
+{
+	display:block;
+	margin:1rem auto 0 auto;
+	text-align:center;
+}

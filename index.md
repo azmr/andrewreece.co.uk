@@ -1,4 +1,5 @@
 <link href="style.css" rel="stylesheet"/>
+<div><img src="img/AR logo.svg" class="svg" height="160rem"/></div>
 
 # Andrew Reece's (incomplete) Online Portfolio
 

@@ -8,92 +8,92 @@ Here's a collection of things I've done that might be of interest. You may also 
 ## University Coursework
 
 ### Third Year
-- {:.cw .primary-research}
-[Development of the graphical representation of hierarchical task analysis](docs/DSC100_HTA_Poster.pdf) _(Poster)_ - mark TBD
-- {:.cw .psychology .statistics .primary-research}
-[Development of the graphical representation of hierarchical task analysis](docs/DSC100_HTA_Report.pdf) _(Report)_ - mark TBD
-- {:.cw .design}
-[Leatherman Surge Redesign Presentation Boards](docs/DSC112_CW1_Presentation_boards.pdf) _(Group project)_ - 79%
-- {:.cw .design .primary-research}
-[Leatherman Surge Redesign Logbook](docs/DSC112_CW1_Logbook.pdf) _(Group project)_ - 79%
-- {:.cw .design .app .primary-research}
-[Food Waste Reduction App Development - "CHEW: Consumption Habits for Eliminating Waste"](docs/DSC112_CW2_Boards.pdf) - mark TBD
-- {:.cw .systems .psychology}
-[Human factors systems analysis of the PSA 182 midair collision](docs/DSC101_PSA_182_MAC.pdf) - 74%
-- {:.cw .inclusive .psychology .primary-research}
-[Assessment of a clothes iron with respect to the needs of the elderly](docs/DSC114_CW1_Iron_evaluation.pdf) - 76%
-- {:.cw .inclusive .systems .primary-research}
-[Assessment of the book-borrowing service provided by Loughborough University Library with respect to the needs of the disabled and the elderly](docs/DSC114_CW2_Library_evaluation.pdf) - 76%
-- {:.cw .anthropometry .primary-research}
-[Computer-aided evaluation and improvements for car controls](docs/DSC017_CAE_Report.pdf) - 81%
+- {:.cw .primary-research #dsc100-poster}
+[Development of the graphical representation of hierarchical task analysis](docs/DSC100_HTA_Poster.pdf) _(Poster)_ *mark TBD*{:.mark}
+- {:.cw .psychology .statistics .primary-research #dsc100}
+[Development of the graphical representation of hierarchical task analysis](docs/DSC100_HTA_Report.pdf) _(Report)_ *mark TBD*{:.mark}
+- {:.cw .design #dsc112-1b}
+[Leatherman Surge Redesign Presentation Boards](docs/DSC112_CW1_Presentation_boards.pdf) _(Group project)_ *79%*{:.mark}
+- {:.cw .design .primary-research #dsc112-1a}
+[Leatherman Surge Redesign Logbook](docs/DSC112_CW1_Logbook.pdf) _(Group project)_ *79%*{:.mark}
+- {:.cw .design .ux .primary-research #dsc112-2}
+[Food Waste Reduction App Development - "CHEW: Consumption Habits for Eliminating Waste"](docs/DSC112_CW2_Boards.pdf) *mark TBD*{:.mark}
+- {:.cw .systems .psychology #dsc101}
+[Human factors systems analysis of the PSA 182 midair collision](docs/DSC101_PSA_182_MAC.pdf) *74%*{:.mark}
+- {:.cw .inclusive .psychology .primary-research #dsc114-1}
+[Assessment of a clothes iron with respect to the needs of the elderly](docs/DSC114_CW1_Iron_evaluation.pdf) *76%*{:.mark}
+- {:.cw .inclusive .systems .primary-research #dsc114-2}
+[Assessment of the book-borrowing service provided by Loughborough University Library with respect to the needs of the disabled and the elderly](docs/DSC114_CW2_Library_evaluation.pdf) *76%*{:.mark}
+- {:.cw .anthropometry .primary-research #dsc017}
+[Computer-aided evaluation and improvements for car controls](docs/DSC017_CAE_Report.pdf) *81%*{:.mark}
 
 ### Second Year
-- {:.cw .legal}
-[Safety guidelines for petrol-powered garden products](docs/DSB120_CW2_Guidance.pdf) _(Group report)_ - 70%
-- {:.cw .legal}
-[Hierarchies of legislation and standards and their interaction in controlling product safety](docs/DSB120_CW1_Regulations_&_Standards.pdf) - 90%
-- {:.cw .app .primary-research}
-Supplement App User Research - 71% <!--(TODO: remove identity: DSB119 CW1 User Research)-->
-- {:.cw .app .design}
-[Supplement App ("SCOOP") Development Process](docs/DSB119_CW2_App_Development.pdf) - 71%
-- {:.cw .app .design}
-[Supplement App ("SCOOP") Axure Prototype](http://8tz1bh.axshare.com/) - 75%
-- {:.cw .website .primary-research}
-[IMDb Usability Testing](docs/DSB118_CW1_Usability_Testing.pdf) - 73%
-- {:.cw .website .primary-research .design}
-[IMDb Prototype Usability Testing](docs/DSB118_CW2_Usability_Prototyping.pdf) - 73%
-- {:.cw .statistics .primary-research}
-[Exercise, Gender and Mortality Indicators (statistics)](docs/DSB113_Statistics.pdf) - 96%
-- {:.cw .statistics}
-[Thermal Sensation, Dexterity and Subjective Response (statistics)](docs/DSB112_Further_Statistics.pdf) - 100%
-- {:.cw .systems}
-[Requirements Specification for an Asthma & COPD Telehealth System](docs/DSB111_CW1_COPD_Requirements.pdf) - 78%
-- {:.cw .systems .inclusive .design}
-[System Concept Development for an Asthma & COPD Telehealth System](docs/DSB111_CW2_COPD_Development.pdf) - 80%
-- {:.cw .psychology}
-[Cognitive Factors in the Paddington Rail Disaster](docs/DSB108_Cognitive_Factors_Rail_Crash.pdf) - 88%
-- {:.cw .primary-research}
-[Case Study on Hand Washing Dishes](docs/DSB106_CW2_Hand_Washing.pdf) - 73%
-- {:.cw .primary-research}
-[Hierarchical Task Analysis of the Process of Making a Hot Drink](docs/DSB106_CW1_HTA_Hot_Drink.pdf) - 76%
-- {:.cw .primary-research .environmental}
-[Noise map of section ‘C’ of Loughborough university campus](docs/DSB105_Noise_map_of_campus.pdf) _(Group project and report)_ - 80%
-- {:.cw .environmental}
-[Responses to Vision Questions](docs/DSB103_Vision_Questions.pdf) - 100%
-- {:.cw .environmental}
-[Depth Perception and Stereoacuity](docs/DSB103_Depth_perception_and_Stereopsis.pdf) - 81%
-- {:.cw .environmental}
-[Ametropia and visual acuity](docs/DSB103_Ametropia_and_visual_acuity.pdf) - 78%
-- {:.cw .anthropometry .design .systems .psychology}
-[Loughborough Monorail System](docs/DSB102_Loughborough_Monorail_Report.pdf) _(Group project, written mostly individually, with some shared components)_ - 80%
+- {:.cw .legal #dsb120-2}
+[Safety guidelines for petrol-powered garden products](docs/DSB120_CW2_Guidance.pdf) _(Group report)_ *70%*{:.mark}
+- {:.cw .legal #dsb120-1}
+[Hierarchies of legislation and standards and their interaction in controlling product safety](docs/DSB120_CW1_Regulations_&_Standards.pdf) *90%*{:.mark}
+- {:.cw .ux .primary-research #dsb119-1}
+*Supplement App User Research*{:.cw-title} *71%*{:.mark} <!--(TODO: remove identity: DSB119 CW1 User Research)-->
+- {:.cw .ux .design #dsb119-2}
+[Supplement App ("SCOOP") Development Process](docs/DSB119_CW2_App_Development.pdf) *71%*{:.mark}
+- {:.cw .ux .design #dsb119-3}
+[Supplement App ("SCOOP") Axure Prototype](http://8tz1bh.axshare.com/) *75%*{:.mark}
+- {:.cw .ux .primary-research #dsb118-1}
+[IMDb Usability Testing](docs/DSB118_CW1_Usability_Testing.pdf) *73%*{:.mark}
+- {:.cw .ux .primary-research .design #dsb118-2}
+[IMDb Prototype Usability Testing](docs/DSB118_CW2_Usability_Prototyping.pdf) *73%*{:.mark}
+- {:.cw .statistics .primary-research #dsb113}
+[Exercise, Gender and Mortality Indicators (statistics)](docs/DSB113_Statistics.pdf) *96%*{:.mark}
+- {:.cw .statistics #dsb112}
+[Thermal Sensation, Dexterity and Subjective Response (statistics)](docs/DSB112_Further_Statistics.pdf) *100%*{:.mark}
+- {:.cw .systems #dsb111-1}
+[Requirements Specification for an Asthma & COPD Telehealth System](docs/DSB111_CW1_COPD_Requirements.pdf) *78%*{:.mark}
+- {:.cw .systems .inclusive .design #dsb111-2}
+[System Concept Development for an Asthma & COPD Telehealth System](docs/DSB111_CW2_COPD_Development.pdf) *80%*{:.mark}
+- {:.cw .psychology #dsb108}
+[Cognitive Factors in the Paddington Rail Disaster](docs/DSB108_Cognitive_Factors_Rail_Crash.pdf) *88%*{:.mark}
+- {:.cw .primary-research #dsb106-2}
+[Case Study on Hand Washing Dishes](docs/DSB106_CW2_Hand_Washing.pdf) *73%*{:.mark}
+- {:.cw .primary-research #dsb106-1}
+[Hierarchical Task Analysis of the Process of Making a Hot Drink](docs/DSB106_CW1_HTA_Hot_Drink.pdf) *76%*{:.mark}
+- {:.cw .primary-research .environmental #dsb105}
+[Noise map of section ‘C’ of Loughborough university campus](docs/DSB105_Noise_map_of_campus.pdf) _(Group project and report)_ *80%*{:.mark}
+- {:.cw .environmental #dsb103-3}
+[Responses to Vision Questions](docs/DSB103_Vision_Questions.pdf) *100%*{:.mark}
+- {:.cw .environmental #dsb103-2}
+[Depth Perception and Stereoacuity](docs/DSB103_Depth_perception_and_Stereopsis.pdf) *81%*{:.mark}
+- {:.cw .environmental #dsb103-1}
+[Ametropia and visual acuity](docs/DSB103_Ametropia_and_visual_acuity.pdf) *78%*{:.mark}
+- {:.cw .anthropometry .design .systems .psychology #dsb102}
+[Loughborough Monorail System](docs/DSB102_Loughborough_Monorail_Report.pdf) _(Group project, written mostly individually, with some shared components)_ *80%*{:.mark}
 
 ### First Year
-- {:.cw .primary-research .statistics}
-[An experiment to compare the physiological effects of 3 intensities of stepping exercise](docs/DSA113_Stepping_Physiology_Report.pdf) _(Group project, written individually)_ - 69%
-- {:.cw .primary-research .statistics}
+- {:.cw .primary-research .statistics #dsa113}
+[An experiment to compare the physiological effects of 3 intensities of stepping exercise](docs/DSA113_Stepping_Physiology_Report.pdf) _(Group project, written individually)_ *69%*{:.mark}
+- {:.cw .primary-research .statistics #dsa113-pres}
 [Physiology Changes at Different Stepping Rates](docs/DSA113_Stepping_Physiology_Presentation.pdf) _(Group presentation)_
-- {:.cw .inclusive}
-[The role of Ergonomics in the design of consumer products for use in the home by elderly people](docs/DSA111_Ergonomics_for_the_Elderly.pdf) - 80%
-- {:.cw}
-[Response to critiques of the above](docs/DSA111_Response_to_Critiques.pdf) - 100%
-- {:.cw}
-[The Scope of Ergonomics Research and Applications](docs/DSA105_Scope_of_Ergonomics.pdf) - 70%
-- {:.cw .psychology}
-[An ergonomic analysis of the flushing system in the design school toilets](docs/DSA105_Flush_Presentation.pdf) _(Group presentation)_ - 100%
-- {:.cw .psychology .primary-research}
-[The Mind at work: Reaction Speed vs. Visual Stimuli](docs/DSA114_Experiment_Presentation.pdf) _(Group Presentation)_ - 77%
-- {:.cw .environmental .primary-research}
-[Lighting Survey of Carrel 1.06](docs/DSA104_Lighting_Survey.pdf) (in Loughborough's Library) - 72%
-- {:.cw .inclusive .design .primary-research}
-[Designing a kettle to be inclusive of the elderly](docs/DSA102_Inclusive_Kettle.pdf) - 77%
-- {:.cw .design}
-[Ticket Machine Design Rationale](docs/DSA101_Ticket_Machine_Rationale.pdf) _(Group project, written individually)_ - 64%
-- {:.cw .psychology .primary-research}
-[Experiment comparing recall for words encoded freely and with the Method of Loci mnemonic device](docs/PSA310_Method_Of_Loci.pdf) - 94%
-- {:.cw .psychology .primary-research}
-Experiment showing a better recall for associated word pairs than non-associated word pairs - 94%
-- {:.cw .primary-research anthropometry}
-Physical Ergonomics of a Construction Site - 78%
+- {:.cw .inclusive #dsa111a}
+[The role of Ergonomics in the design of consumer products for use in the home by elderly people](docs/DSA111_Ergonomics_for_the_Elderly.pdf) *80%*{:.mark}
+- {:.cw #dsa111b}
+[Response to critiques of the above](docs/DSA111_Response_to_Critiques.pdf) *100%*{:.mark}
+- {:.cw #dsa105}
+[The Scope of Ergonomics Research and Applications](docs/DSA105_Scope_of_Ergonomics.pdf) *70%*{:.mark}
+- {:.cw .psychology #dsa105-pres}
+[An ergonomic analysis of the flushing system in the design school toilets](docs/DSA105_Flush_Presentation.pdf) _(Group presentation)_ *100%*{:.mark}
+- {:.cw .psychology .primary-research #dsa114}
+[The Mind at work: Reaction Speed vs. Visual Stimuli](docs/DSA114_Experiment_Presentation.pdf) _(Group Presentation)_ *77%*{:.mark}
+- {:.cw .environmental .primary-research #dsa104}
+[Lighting Survey of Carrel 1.06](docs/DSA104_Lighting_Survey.pdf) *72%*{:.mark}
+- {:.cw .inclusive .design .primary-research #dsa102}
+[Designing a kettle to be inclusive of the elderly](docs/DSA102_Inclusive_Kettle.pdf) *77%*{:.mark}
+- {:.cw .design #dsa101}
+[Ticket Machine Design Rationale](docs/DSA101_Ticket_Machine_Rationale.pdf) _(Group project, written individually)_ *64%*{:.mark}
+- {:.cw .psychology .primary-research #psa310-1}
+[Experiment comparing recall for words encoded freely and with the Method of Loci mnemonic device](docs/PSA310_Method_Of_Loci.pdf) *94%*{:.mark}
+- {:.cw .psychology .primary-research .statistics #psa310-2}
+*Experiment showing a better recall for associated word pairs than non-associated word pairs*{:.cw-title} *94%*{:.mark}
+- {:.cw .primary-research anthropometry .statistics #dsa112}
+*Physical Ergonomics of a Construction Site*{:.cw-title} *78%*{:.mark}
 
 
 ## Personal Projects

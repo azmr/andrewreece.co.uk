@@ -1,9 +1,14 @@
 <link href="style.css" rel="stylesheet"/>
-<div><img src="img/AR logo.svg" class="svg" height="160rem"/></div>
+![AR logo](img/AR logo.svg){:.svg #ar-logo}
 
 # Andrew Reece's (incomplete) Online Portfolio
 
-Here's a collection of things I've done that might be of interest. You may also be interested in [seeing my CV](docs/Andrew_Reece_CV_2017-06-08.pdf)
+Here's a collection of things I've done that might be of interest. You may also be interested in [seeing my CV](docs/Andrew_Reece_CV_2017-06-08.pdf).
+
+- [University Coursework](#university-coursework)
+- [Programming](#programming)
+- [Photography](#photography)
+- [Leatherwork](#leatherwork)
 
 ## University Coursework
 
@@ -96,18 +101,16 @@ Here's a collection of things I've done that might be of interest. You may also 
 *Physical Ergonomics of a Construction Site*{:.cw-title} *78%*{:.mark}
 
 
-## Personal Projects
-
-### Programming
+## Programming
 With the help of YouTube, friends and books, I have taught myself to program in a number of languages. Here are a few example projects:
-- [Geometer](https://github.com/azmr/geometer) - *(in progress)* a simple drawing program (made in C) to replicate construction with a compass and straightedge.
-- [Twinstick Sumo](https://github.com/azmr/twinstick-sumo) - a game made in C over 2 days using an engine built 'from scratch'. The objective is to push your opponent out of the ring by bumping into them and throwing things at them. Covers basic graphics, 1- or 2-player user input, collision detection, AI...
+- [Geometer](https://github.com/azmr/geometer) - *(in progress)* a simple drawing program (made in C) to replicate construction with a compass and straightedge. ![Geometer demo](img/prog-geometer-320.gif){:.gif}
+- [Twinstick Sumo](https://github.com/azmr/twinstick-sumo) - a game made in C over 2 days using an engine built 'from scratch'. The objective is to push your opponent out of the ring by bumping into them and throwing things at them. Covers basic graphics, 1- or 2-player user input, collision detection, AI... ![Twinstick Sumo demo](img/prog-twinstick-320.gif){:.gif}
 - [Tarmak-CLI](https://github.com/azmr/tarmak-cli) - a script for creating the intermediate key layouts used for learning Colemak.
 - [Shift-Swap](https://github.com/azmr/shift-swap) - a script for changing around keys (numbers/symbols, square brackets/curly braces, escape/caps lock/ctrl) for CLI keyboard layouts.
 - [TimeThis](https://github.com/azmr/timethis) - simple C-based timer to be used on Windows similarly to `time` on Unix (compile times, program execution etc).
 - [WebToPDF](https://github.com/azmr/webtopdf) - a server (that can run locally), written in Go, to find images at a URL and make a PDF from them.
 
-### Photography
+## Photography
 I've taken over 10,000 photos of gymnasts competing, mostly from the Loughborough club. Here are a few of my favourites:
 ![Gymnastics beam mount](img/Gym2.jpg)
 ![Gymnastics Healy](img/Gym3.jpg)
@@ -115,7 +118,7 @@ I've taken over 10,000 photos of gymnasts competing, mostly from the Loughboroug
 ![Gymnastics synchronised straight back](img/Gym5.jpg)
 ![Gymnastics Tkatchev](img/Gym1.jpg)
 
-### Leatherwork
+## Leatherwork
 I make belts, bags, knife sheaths, notebooks and wrist pads (among other things) in the leatherworking I set up:
 ![Leather belt](img/Leather1.jpg)
 ![Leather bag](img/Leather2.jpg)

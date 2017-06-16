@@ -1,3 +1,8 @@
+#ar-logo
+{
+	height:12rem;
+}
+
 .filterbutton input
 {
 	display:none;
@@ -146,6 +151,13 @@ input:checked + .switch
 #dsb104 a{padding-right: 5%;}
 #dsb103-1 a{padding-right: 9%;}
 #dsb118-1 a{padding-right:25%;}
+
+.gif
+{
+	display:block;
+	margin:.5rem auto 1rem auto;
+	border:solid #ccc 1px;
+}
 
 .hidden
 {

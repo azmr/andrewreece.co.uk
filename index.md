@@ -116,22 +116,27 @@ I've taken over 10,000 photos of gymnasts performing, mostly from the Loughborou
 
 ![Gymnastics beam mount](img/Gym2.jpg)
 ![Gymnastics Healy](img/Gym3.jpg)
-{:.image-row}
+{:.image-row .screen-width}
 
 ![Gymnastics pommel flare](img/Gym4.jpg)
 ![Gymnastics synchronised straight back](img/Gym5.jpg)
-{:.image-row}
+{:.image-row .screen-width}
 {::comment}![Gymnastics Tkatchev](img/Gym1.jpg){:/comment}
 
 ## Leatherwork
 I make belts, bags, knife sheaths, notebooks and wrist pads (among other things) in the leatherworking I set up:
-<div class="images" markdown="1">
-![Leather belt](img/Leather1.jpg)
-![Leather bag](img/Leather2.jpg)
-![Leather knife sheaths](img/Leather3.jpg)
+
+![Leather bag](img/Leather1.jpg)
+{:.screen-width}
+
+![Leather belt](img/Leather3.jpg)
 ![Leather notebooks](img/Leather4.jpg)
+{:.image-row .screen-width}
+
+![Leather knife sheaths](img/Leather2.jpg)
 ![Leather wrist pads](img/Leather5.jpg)
-</div>
+{:.image-row .screen-width}
+
 
 See the [Ember Creations photos](https://www.facebook.com/embercreations/photos/) on Facebook for more.
 

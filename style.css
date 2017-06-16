@@ -117,7 +117,7 @@ input:checked + .switch
 #dsb119-3{		background-image:url("img/cw-dsb119-3.png"); background-size:contain;}
 #dsb118-1{		background-image:url("img/cw-dsb118-1.png");}
 #dsb118-2{		background-image:url("img/cw-dsb118-2.png");}
-#dsb113{		background-image:url("img/cw-dsb113.png");}
+#dsb113{		background-image:url("img/cw-dsb113.png"); background-size:contain;}
 #dsb112{		background-image:url("img/cw-dsb112.png");}
 #dsb111-1{		background-image:url("img/cw-dsb111-1.png"); background-size:contain;}
 #dsb111-2{		background-image:url("img/cw-dsb111-2.png"); background-size:contain;}
@@ -142,6 +142,10 @@ input:checked + .switch
 #psa310-1{		background-image:url("img/cw-psa310-1.png");}
 #psa310-2{		background-image:url("img/cw-psa310-2.png");}
 #dsa112{		background-image:url("img/cw-dsa112.png");}
+
+#dsb104 a{padding-right: 5%;}
+#dsb103-1 a{padding-right: 9%;}
+#dsb118-1 a{padding-right:25%;}
 
 .hidden
 {

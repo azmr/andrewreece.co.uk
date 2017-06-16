@@ -56,13 +56,13 @@ Here's a collection of things I've done that might be of interest. You may also 
 [Case Study on Hand Washing Dishes](docs/DSB106_CW2_Hand_Washing.pdf) *73%*{:.mark}
 - {:.cw .primary-research #dsb106-1}
 [Hierarchical Task Analysis of the Process of Making a Hot Drink](docs/DSB106_CW1_HTA_Hot_Drink.pdf) *76%*{:.mark}
-- {:.cw .primary-research .environmental #dsb105}
+- {:.cw .primary-research .perceptual #dsb105}
 [Noise map of section ‘C’ of Loughborough university campus](docs/DSB105_Noise_map_of_campus.pdf) _(Group project and report)_ *80%*{:.mark}
-- {:.cw .environmental #dsb103-3}
+- {:.cw .perceptual #dsb103-3}
 [Responses to Vision Questions](docs/DSB103_Vision_Questions.pdf) *100%*{:.mark}
-- {:.cw .environmental #dsb103-2}
+- {:.cw .perceptual #dsb103-2}
 [Depth Perception and Stereoacuity](docs/DSB103_Depth_perception_and_Stereopsis.pdf) *81%*{:.mark}
-- {:.cw .environmental #dsb103-1}
+- {:.cw .perceptual #dsb103-1}
 [Ametropia and visual acuity](docs/DSB103_Ametropia_and_visual_acuity.pdf) *78%*{:.mark}
 - {:.cw .anthropometry .design .systems .psychology #dsb102}
 [Loughborough Monorail System](docs/DSB102_Loughborough_Monorail_Report.pdf) _(Group project, written mostly individually, with some shared components)_ *80%*{:.mark}
@@ -82,9 +82,9 @@ Here's a collection of things I've done that might be of interest. You may also 
 [An ergonomic analysis of the flushing system in the design school toilets](docs/DSA105_Flush_Presentation.pdf) _(Group presentation)_ *100%*{:.mark}
 - {:.cw .psychology .primary-research #dsa114}
 [The Mind at work: Reaction Speed vs. Visual Stimuli](docs/DSA114_Experiment_Presentation.pdf) _(Group Presentation)_ *77%*{:.mark}
-- {:.cw .environmental .primary-research #dsa104}
+- {:.cw .perceptual .primary-research #dsa104}
 [Lighting Survey of Carrel 1.06](docs/DSA104_Lighting_Survey.pdf) *72%*{:.mark}
-- {:.cw .inclusive .design .primary-research #dsa102}
+- {:.cw .inclusive .design .anthropometry .primary-research #dsa102}
 [Designing a kettle to be inclusive of the elderly](docs/DSA102_Inclusive_Kettle.pdf) *77%*{:.mark}
 - {:.cw .design #dsa101}
 [Ticket Machine Design Rationale](docs/DSA101_Ticket_Machine_Rationale.pdf) _(Group project, written individually)_ *64%*{:.mark}

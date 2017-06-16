@@ -1,3 +1,8 @@
+p
+{
+	margin-bottom:.5rem;
+}
+
 #ar-logo
 {
 	height:12rem;
@@ -37,6 +42,23 @@ input:checked + .switch
 	display:block;
 	margin:1rem auto 0 auto;
 	text-align:center;
+}
+
+.image-row
+{
+	margin-left:-25%;
+	margin-right:-25%;
+}
+
+.image-row img
+{
+	width:49.5%;
+	float:right;
+}
+
+.image-row img:first-child
+{
+	float:none;
 }
 
 .cw

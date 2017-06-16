@@ -5,6 +5,7 @@
 
 Here's a collection of things I've done that might be of interest. You may also be interested in [seeing my CV](docs/Andrew_Reece_CV_2017-06-08.pdf).
 
+## Sections
 - [University Coursework](#university-coursework)
 - [Programming](#programming)
 - [Photography](#photography)
@@ -111,20 +112,26 @@ With the help of YouTube, friends and books, I have taught myself to program in 
 - [WebToPDF](https://github.com/azmr/webtopdf) - a server (that can run locally), written in Go, to find images at a URL and make a PDF from them.
 
 ## Photography
-I've taken over 10,000 photos of gymnasts competing, mostly from the Loughborough club. Here are a few of my favourites:
+I've taken over 10,000 photos of gymnasts performing, mostly from the Loughborough club. Here are a few of my favourites:
+
 ![Gymnastics beam mount](img/Gym2.jpg)
 ![Gymnastics Healy](img/Gym3.jpg)
+{:.image-row}
+
 ![Gymnastics pommel flare](img/Gym4.jpg)
 ![Gymnastics synchronised straight back](img/Gym5.jpg)
-![Gymnastics Tkatchev](img/Gym1.jpg)
+{:.image-row}
+{::comment}![Gymnastics Tkatchev](img/Gym1.jpg){:/comment}
 
 ## Leatherwork
 I make belts, bags, knife sheaths, notebooks and wrist pads (among other things) in the leatherworking I set up:
+<div class="images" markdown="1">
 ![Leather belt](img/Leather1.jpg)
 ![Leather bag](img/Leather2.jpg)
 ![Leather knife sheaths](img/Leather3.jpg)
 ![Leather notebooks](img/Leather4.jpg)
 ![Leather wrist pads](img/Leather5.jpg)
+</div>
 
 See the [Ember Creations photos](https://www.facebook.com/embercreations/photos/) on Facebook for more.
 

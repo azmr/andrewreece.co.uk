@@ -1,3 +1,9 @@
+.container
+{
+	max-width:980px;
+	width: 98%;
+}
+
 p
 {
 	margin-bottom:.5rem;
@@ -44,10 +50,6 @@ input:checked + .switch
 	text-align:center;
 }
 
-.images
-{
-}
-
 .screen-width
 {
 	overflow-x: hidden;
@@ -55,9 +57,6 @@ input:checked + .switch
 	width:100vw;
 	left:50%;
 	margin-left:-50vw;
-
-	/* margin-left:-25%; */
-	/* margin-right:-25%; */
 }
 
 .screen-width img
@@ -68,7 +67,6 @@ input:checked + .switch
 .image-row img
 {
 	width:49.5%;
-	/* position:absolute; */
 	float:right;
 }
 

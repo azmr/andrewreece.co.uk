@@ -179,10 +179,12 @@ The logo I made for a charity at sixth form:
 
 ## Videos
 I made a number of videos for the Loughborough Gymnastics club while acting as their Media Sec:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BESCZ0zZhXA" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AZjNH3C3S9o" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2mzdZAskevM" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9CqrIsCm8fY" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="480" height="270" src="https://www.youtube.com/embed/BESCZ0zZhXA" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/AZjNH3C3S9o" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="480" height="270" src="https://www.youtube.com/embed/2mzdZAskevM" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/9CqrIsCm8fY" frameborder="0" allowfullscreen></iframe>
 
 ## Costuming
 I made a semi-functional batsuit for halloween with a composite (resin/diolen) breastplate and cowl, steel batarangs, fire-resistant cape and leather gauntlets.

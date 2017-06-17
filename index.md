@@ -6,23 +6,27 @@
 Here's a collection of things I've done that might be of interest. You may also be interested in [seeing my CV](docs/Andrew_Reece_CV_2017-06-08.pdf).
 
 ## Sections
-- [University Coursework](#university-coursework)
+- [University Coursework (Ergonomics)](#university-coursework)
 - [Programming](#programming)
 - [Photography](#photography)
 - [Leatherwork](#leatherwork)
+- [Graphic Design](#graphic-design)
+- [Art](#art)
+- [Videos](#videos)
+- [Costuming](#costuming)
 
 ## University Coursework
 
 ### Third Year
 - {:.cw .primary-research #dsc100-poster}
-[Development of the graphical representation of hierarchical task analysis](docs/DSC100_HTA_Poster.pdf) _(Poster)_ *mark TBD*{:.mark}
+[Development of the graphical representation of hierarchical task analysis poster](docs/DSC100_HTA_Poster.pdf) *mark TBD*{:.mark}
 - {:.cw .psychology .statistics .primary-research #dsc100}
-[Development of the graphical representation of hierarchical task analysis](docs/DSC100_HTA_Report.pdf) _(Report)_ *mark TBD*{:.mark}
+[Development of the graphical representation of hierarchical task analysis report](docs/DSC100_HTA_Report.pdf) *mark TBD*{:.mark}
 - {:.cw .design #dsc112-1b}
 [Leatherman Surge Redesign Presentation Boards](docs/DSC112_CW1_Presentation_boards.pdf) _(Group project)_ *79%*{:.mark}
-- {:.cw .design .primary-research #dsc112-1a}
+- {:.cw .inclusive .design .primary-research #dsc112-1a}
 [Leatherman Surge Redesign Logbook](docs/DSC112_CW1_Logbook.pdf) _(Group project)_ *79%*{:.mark}
-- {:.cw .design .ux .primary-research #dsc112-2}
+- {:.cw .inclusive .design .ux .primary-research #dsc112-2}
 [Food Waste Reduction App Development - "CHEW: Consumption Habits for Eliminating Waste"](docs/DSC112_CW2_Boards.pdf) *mark TBD*{:.mark}
 - {:.cw .systems .psychology #dsc101}
 [Human factors systems analysis of the PSA 182 midair collision](docs/DSC101_PSA_182_MAC.pdf) *74%*{:.mark}
@@ -56,7 +60,7 @@ Here's a collection of things I've done that might be of interest. You may also 
 [Requirements Specification for an Asthma & COPD Telehealth System](docs/DSB111_CW1_COPD_Requirements.pdf) *78%*{:.mark}
 - {:.cw .systems .inclusive .design #dsb111-2}
 [System Concept Development for an Asthma & COPD Telehealth System](docs/DSB111_CW2_COPD_Development.pdf) *80%*{:.mark}
-- {:.cw .psychology #dsb108}
+- {:.cw .inclusive .psychology #dsb108}
 [Cognitive Factors in the Paddington Rail Disaster](docs/DSB108_Cognitive_Factors_Rail_Crash.pdf) *88%*{:.mark}
 - {:.cw .primary-research #dsb106-2}
 [Case Study on Hand Washing Dishes](docs/DSB106_CW2_Hand_Washing.pdf) *73%*{:.mark}
@@ -112,7 +116,8 @@ With the help of YouTube, friends and books, I have taught myself to program in 
 - [WebToPDF](https://github.com/azmr/webtopdf) - a server (that can run locally), written in Go, to find images at a URL and make a PDF from them.
 
 ## Photography
-I've taken over 10,000 photos of gymnasts performing, mostly from the Loughborough club. Here are a few of my favourites:
+I've taken over 10,000 photos of gymnasts performing, mostly from the Loughborough club. Below are a few of my favourites.
+See the [Ember Creations photos](https://www.facebook.com/embercreations/photos/) on Facebook for more.
 
 ![Gymnastics beam mount](img/Gym2.jpg)
 ![Gymnastics Healy](img/Gym3.jpg)
@@ -137,7 +142,59 @@ I make belts, bags, knife sheaths, notebooks and wrist pads (among other things)
 ![Leather wrist pads](img/Leather5.jpg)
 {:.image-row .screen-width}
 
+## Metalwork
+![Knife forged from ore](img/met-forgedknife.jpg){:style="width:35%"}
+![Wall hooks and hammer](img/met-hooks.jpg){:style="width:64%"}
+{:.image-row .screen-width}
 
-See the [Ember Creations photos](https://www.facebook.com/embercreations/photos/) on Facebook for more.
+## Graphic Design
+### Font
+![Font introduction animation - "My Font Blocky"](img/des-myfontblocky.gif){:.gif}
+![Letters/glyphs of Blocky font](img/des-blockyglyphs.jpg)
+
+### Logos
+The logo for my leatherworking company, Ember Creations:
+![Ember Creations Logo](img/des-embercreations.svg){:.svg}
+{::comment}![FreeBadge Logo](img/des-freebadge.png){:/comment}
+
+The logo I made for a charity at sixth form:
+![Invisible Children Logo](img/des-invisiblechildren.png){:.midsize}
+
+## Art
+### Animation
+![Hand-drawn animation of a kong vault](img/des-kong-480.gif){:.gif}
+
+### Children's book (GCSE)
+![Page from a children's book made for GCSE](img/des-jimbob.jpg)
+{:.screen-width}
+
+### Life Drawing
+![Life drawing 1](img/des-life1.jpg){:style="width:46%;"}
+![Life drawing 2](img/des-life2.jpg){:style="width:53.5%;"}
+{:.image-row .screen-width}
+
+![Life drawing 3](img/des-life3.jpg){:style="width:48.25%;"}
+![Life drawing 4](img/des-life4.jpg){:style="width:50.75%;"}
+{:.image-row .screen-width}
+
+## Videos
+I made a number of videos for the Loughborough Gymnastics club while acting as their Media Sec:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BESCZ0zZhXA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZjNH3C3S9o" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2mzdZAskevM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9CqrIsCm8fY" frameborder="0" allowfullscreen></iframe>
+
+## Costuming
+I made a semi-functional batsuit for halloween with a composite (resin/diolen) breastplate and cowl, steel batarangs, fire-resistant cape and leather gauntlets.
+
+![Batman costume](img/des-batsuit.jpg){:style="width:52.3%;"}
+![Batman costume creation](img/des-batmancowlmaking.jpg){:style="width:46.5%;"}
+{:.image-row .screen-width}
+
+I was once commissioned to make a corset:
+
+![Corset front](img/des-corsetfront.jpg)
+![Corset back](img/des-corsetback.jpg)
+{:.image-row .screen-width}
 
 <script src="js/tags.js">

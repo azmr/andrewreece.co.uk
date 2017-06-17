@@ -1,3 +1,8 @@
+html
+{
+	overflow-x:hidden;
+}
+
 .container
 {
 	max-width:980px;
@@ -7,6 +12,11 @@
 p
 {
 	margin-bottom:.5rem;
+}
+
+h2
+{
+	margin-top:6rem;
 }
 
 #ar-logo
@@ -193,6 +203,13 @@ input:checked + .switch
 	display:block;
 	margin:.5rem auto 1rem auto;
 	border:solid #ccc 1px;
+}
+
+.midsize
+{
+	display:block;
+	margin:.5rem auto 1rem auto;
+	max-height:480px;
 }
 
 .hidden

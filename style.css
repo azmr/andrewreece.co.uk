@@ -16,7 +16,12 @@ p
 
 h2
 {
-	margin-top:6rem;
+	margin-top:6rem !important;
+}
+
+h3
+{
+	margin-top:3rem !important;
 }
 
 #ar-logo
@@ -76,6 +81,7 @@ input:checked + .switch
 
 .image-row img
 {
+	display:inline-block;
 	width:49.5%;
 	float:right;
 }

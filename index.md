@@ -1,9 +1,9 @@
 <link href="style.css" rel="stylesheet"/>
-![AR logo](img/AR logo.svg){:.svg #ar-logo}
+![AR logo](img/AR_logo.svg){:.svg #ar-logo}
 
-# Andrew Reece's (incomplete) Online Portfolio
+# Andrew Reece's Online Portfolio
 
-Here's a collection of things I've done that might be of interest. You may also be interested in [seeing my CV](docs/Andrew_Reece_CV_2017-06-08.pdf).
+Here's a collection of things I've done that might be of interest. You may also be interested in [seeing my CV](docs/Andrew_Reece_CV_2017-06-08.pdf), which contains my contact details.
 
 ## Sections
 - [University Coursework (Ergonomics)](#university-coursework)

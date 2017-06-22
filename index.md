@@ -1,3 +1,6 @@
+---
+title: Andrew Reece - Portfolio
+---
 <link href="style.css" rel="stylesheet"/>
 ![AR logo](img/AR_logo.svg){:.svg #ar-logo}
 
@@ -27,7 +30,7 @@ Here's a collection of things I've done that might be of interest. You may also 
 - {:.cw .inclusive .design .primary-research #dsc112-1a}
 [Leatherman Surge Redesign Logbook](docs/DSC112_CW1_Logbook.pdf) _(Group project)_ *79%*{:.mark}
 - {:.cw .inclusive .design .ux .primary-research #dsc112-2}
-[Food Waste Reduction App Development - "CHEW: Consumption Habits for Eliminating Waste"](docs/DSC112_CW2_Boards.pdf) *mark TBD*{:.mark}
+[Food Waste Reduction App Development - "CHEW: Consumption Habits for Eliminating Waste"](docs/DSC112_CW2_Boards.pdf) *74%*{:.mark}
 - {:.cw .systems .psychology #dsc101}
 [Human factors systems analysis of the PSA 182 midair collision](docs/DSC101_PSA_182_MAC.pdf) *74%*{:.mark}
 - {:.cw .inclusive .psychology .primary-research #dsc114-1}

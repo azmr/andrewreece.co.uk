@@ -70,7 +70,7 @@ Here's a collection of things I've done that might be of interest. You may also 
 - {:.cw .primary-research #dsb106-1}
 [Hierarchical Task Analysis of the Process of Making a Hot Drink](docs/DSB106_CW1_HTA_Hot_Drink.pdf) *76%*{:.mark}
 - {:.cw .primary-research .perceptual #dsb105}
-[Noise map of section ‘C’ of Loughborough university campus](docs/DSB105_Noise_map_of_campus.pdf) _(Group project and report)_ *80%*{:.mark}
+[Noise map of section ‘C’ of Loughborough university campus](docs/DSB105_Noise_map_of_campus.pdf) _(Group project)_ *80%*{:.mark}
 - {:.cw .perceptual #dsb103-3}
 [Responses to Vision Questions](docs/DSB103_Vision_Questions.pdf) *100%*{:.mark}
 - {:.cw .perceptual #dsb103-2}
@@ -78,11 +78,11 @@ Here's a collection of things I've done that might be of interest. You may also 
 - {:.cw .perceptual #dsb103-1}
 [Ametropia and visual acuity](docs/DSB103_Ametropia_and_visual_acuity.pdf) *78%*{:.mark}
 - {:.cw .anthropometry .design .systems .psychology #dsb102}
-[Loughborough Monorail System](docs/DSB102_Loughborough_Monorail_Report.pdf) _(Group project, written mostly individually, with some shared components)_ *80%*{:.mark}
+[Loughborough Monorail System](docs/DSB102_Loughborough_Monorail_Report.pdf) _(Group project)_ *80%*{:.mark}
 
 ### First Year
 - {:.cw .primary-research .statistics #dsa113}
-[An experiment to compare the physiological effects of 3 intensities of stepping exercise](docs/DSA113_Stepping_Physiology_Report.pdf) _(Group project, written individually)_ *69%*{:.mark}
+[An experiment to compare the physiological effects of 3 intensities of stepping exercise](docs/DSA113_Stepping_Physiology_Report.pdf) _(Group project)_ *69%*{:.mark}
 - {:.cw .primary-research .statistics #dsa113-pres}
 [Physiology Changes at Different Stepping Rates](docs/DSA113_Stepping_Physiology_Presentation.pdf) _(Group presentation)_
 - {:.cw .inclusive #dsa111a}
@@ -100,7 +100,7 @@ Here's a collection of things I've done that might be of interest. You may also 
 - {:.cw .inclusive .design .anthropometry .primary-research #dsa102}
 [Designing a kettle to be inclusive of the elderly](docs/DSA102_Inclusive_Kettle.pdf) *77%*{:.mark}
 - {:.cw .design #dsa101}
-[Ticket Machine Design Rationale](docs/DSA101_Ticket_Machine_Rationale.pdf) _(Group project, written individually)_ *64%*{:.mark}
+[Ticket Machine Design Rationale](docs/DSA101_Ticket_Machine_Rationale.pdf) _(Group project)_ *64%*{:.mark}
 - {:.cw .psychology .primary-research #psa310-1}
 [Experiment comparing recall for words encoded freely and with the Method of Loci mnemonic device](docs/PSA310_Method_Of_Loci.pdf) *94%*{:.mark}
 - {:.cw .psychology .primary-research .statistics #psa310-2}

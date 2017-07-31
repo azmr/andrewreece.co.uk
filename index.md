@@ -20,11 +20,11 @@ Here's a collection of things I've done that might be of interest. You may also 
 
 ## University Coursework
 
-### Third Year
+### Third Year (First)
 - {:.cw .primary-research #dsc100-poster}
-[Development of the graphical representation of hierarchical task analysis poster](docs/DSC100_HTA_Poster.pdf) *mark TBD*{:.mark}
+[Development of the graphical representation of hierarchical task analysis poster](docs/DSC100_HTA_Poster.pdf) *69%*{:.mark}
 - {:.cw .psychology .statistics .primary-research #dsc100}
-[Development of the graphical representation of hierarchical task analysis report](docs/DSC100_HTA_Report.pdf) *mark TBD*{:.mark}
+[Development of the graphical representation of hierarchical task analysis report](docs/DSC100_HTA_Report.pdf) *69%*{:.mark}
 - {:.cw .design #dsc112-1b}
 [Leatherman Surge Redesign Presentation Boards](docs/DSC112_CW1_Presentation_boards.pdf) _(Group project)_ *79%*{:.mark}
 - {:.cw .inclusive .design .primary-research #dsc112-1a}
@@ -40,7 +40,7 @@ Here's a collection of things I've done that might be of interest. You may also 
 - {:.cw .anthropometry .primary-research #dsc017}
 [Computer-aided evaluation and improvements for car controls](docs/DSC017_CAE_Report.pdf) *81%*{:.mark}
 
-### Second Year
+### Second Year (First)
 - {:.cw .legal #dsb120-2}
 [Safety guidelines for petrol-powered garden products](docs/DSB120_CW2_Guidance.pdf) _(Group report)_ *70%*{:.mark}
 - {:.cw .legal #dsb120-1}
@@ -80,7 +80,7 @@ Here's a collection of things I've done that might be of interest. You may also 
 - {:.cw .anthropometry .design .systems .psychology #dsb102}
 [Loughborough Monorail System](docs/DSB102_Loughborough_Monorail_Report.pdf) _(Group project)_ *80%*{:.mark}
 
-### First Year
+### First Year (First)
 - {:.cw .primary-research .statistics #dsa113}
 [An experiment to compare the physiological effects of 3 intensities of stepping exercise](docs/DSA113_Stepping_Physiology_Report.pdf) _(Group project)_ *69%*{:.mark}
 - {:.cw .primary-research .statistics #dsa113-pres}

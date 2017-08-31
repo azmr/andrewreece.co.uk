@@ -3,6 +3,15 @@ html
 	overflow-x:hidden;
 }
 
+h1
+{
+	display:none;
+}
+#andrew-reeces-online-portfolio
+{
+	display:block;
+}
+
 .container
 {
 	max-width:980px;

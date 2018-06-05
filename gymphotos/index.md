@@ -1,3 +1,11 @@
+---
+title: Gymnastics Photography by Andrew Reece
+---
+<link href="style.css" rel="stylesheet"/>
+![AR logo](../img/AR_logo.svg){:.svg #ar-logo}
+
+Below are some of my gymnastics photos. Most are from competitions, but a couple were staged.
+
 ![BB Walkover Peacock](201503131338.JPG)
 ![UB Shoot](201503132007.JPG)
 ![PB Diamidov](201503141006.JPG)

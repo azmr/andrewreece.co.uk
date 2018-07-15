@@ -1,27 +1,46 @@
 @echo off
-FOR %%I IN (.) DO set CurrentDir=%%~nI%%~xI
 
-set CompDate=test
-set WebBase="E:\web\portfolio\gymphotos"
-set BackupBase="H:\Pictures\Photos\Gymnastics"
-set CFDir="G:\DCIM\100EOS7D"
+set CompDate=2018-07-16
+set WebBase=C:\Users\Liz\Pictures\Gymnastics\portfolio\gymphotos
+set BackupBase="E:\Gymnastics"
+set CFDir="F:\DCIM\100EOS7D"
+set CR2Base="C:\Users\Liz\Pictures\Gymnastics\CR2"
 
-set WebDir="%WebBase%\%CompDate%"
+set SessionName=%~n1
+set SessionID=%SessionName: =-%
+
+set WebDir=%WebBase%\%CompDate%
 if not exist %WebDir% mkdir %WebDir%
-set BackupDir="%BackupBase%\%CompDate%"
+set BackupDir="%BackupBase%\%CompDate%\%SessionName%"
 if not exist %BackupDir% mkdir %BackupDir%
-set Index="%WebDir%\index.md"
+set CR2Dir="%CR2Base%\%CompDate%\%SessionName%"
+if not exist %CR2Dir% mkdir %CR2Dir%
+set WebIndex="%WebDir%\index.md"
+set SessionDir=%WebDir%\%SessionName%
+set SessionIndex="%SessionDir%\index.html"
+set Tools=%WebBase%\Tools
 
 echo Copying files to local drive
-REM copy /y %CFDir%\_YML*.CR2 .
+copy /y %CFDir%\*.CR2 %CR2Dir%
 echo Finished copying to local drive
-REM start cmd /c "copy /y _YML*.CR2 %BackupDir%"
+pushd %CR2Dir%
+start cmd /c "copy /y *.CR2 %BackupDir%"
 
->%Index% (
+>%WebIndex% (
 	for %%L in (
 		"---"
 		"title: Gymnastics Photographs by Andrew Reece"
 		"---"
+		"<link href='/style.css' rel='stylesheet'/>"
+		"Please have a look at the photos taken on %CompDate%. They are organized by session start time."
+		""
+	) do echo.%%~L
+)
+
+>%SessionIndex% (
+	for %%L in (
+		"<html><head><title>Gymnastics Photographs by Andrew Reece</title></head>"
+		"<body>"
 		"<link href='/style.css' rel='stylesheet'/>"
 		"<style>"
 		"p{display: inline-block; text-align: center; font-weight: bold; margin-bottom: 2rem}"
@@ -29,7 +48,9 @@ REM start cmd /c "copy /y _YML*.CR2 %BackupDir%"
 		"form{display: inline-block;}"
 		".markdown-body{text-align: center;}"
 		"</style>"
-		"<h1>Gymnastics photos from %CompDate%</h1>"
+		"<h1>Gymnastics photos from %CompDate% in the %SessionName% session</h1>"
+		"<p style='text-align:left'>The photos load a bit after the webpage, so please try again after a few minutes if they are not showing up.</p>"
+		"<p style='text-align:left'>If you would like photos in a format not listed below, please email me at azmreece [at] gmail [dot] com</p>"
 		"<div id='paypal-form'>"
 		"<form action='https://www.paypal.com/cgi-bin/webscr' method='post' target='_top'>"
 		"<input type='hidden' name='cmd' value='_s-xclick'>"
@@ -60,31 +81,47 @@ REM start cmd /c "copy /y _YML*.CR2 %BackupDir%"
 SETLOCAL EnableDelayedExpansion
 for %%f in (*.CR2) do (
 	set fname=%%~nf
-	dcraw64.exe -h -a %%f
+	%Tools%\dcraw64.exe -h -a %%f
 	gm mogrify -geometry 40%% %%~nf.ppm
-	gm composite -gravity Center -quality 70 Watermark.png %%~nf.ppm %WebDir%\!fname:~-4!.jpg
-	rm %%~nf.ppm
+	gm composite -gravity Center -quality 70 %Tools%\Watermark.png %%~nf.ppm "%SessionDir%\!fname:~-4!.jpg"
+	del %%~nf.ppm
 	echo Converted %%f
 )
 SETLOCAL DisableDelayedExpansion
 echo All conversions finished
+popd
 
-for %%f in (%WebDir%\*.jpg) do (
-	>>%Index% (
+:: TODO ignore empty folders
+for /d %%d in (%WebDir%\*) do (
+	>>%WebIndex% (
 		for %%L in (
-			"![Gym photo from %CompDate%](https://github.com/azmr/portfolio/raw/master/gymphotos/%CompDate%/%%~nf.jpg)  "
-			"%%~nf"
+			"[%%~nd](%%~nd)"
 			""
 		) do echo.%%~L
 	)
 )
+
+for %%f in ("%SessionDir%\*.jpg") do (
+	>>%SessionIndex% (
+		for %%L in (
+			"<p><img src='https://github.com/azmr/portfolio/raw/master/gymphotos/%CompDate%/%SessionName%/%%~nf.jpg' alt='Gym photo from %CompDate% in the %SessionName% session'>  "
+			"<br/>%%~nf</p>"
+			""
+		) do echo.%%~L
+	)
+	echo %%f
+)
+echo ^</body^>^</html^> >> %SessionIndex%
+
+echo Encrypting...
+call staticrypt -f "%Tools%\template.html" -t "Password Protected Photos" -i "Please enter the password to continue" %SessionIndex% Portishead -o %SessionIndex%
 echo Web page finished
 
 pushd %WebDir%
-REM git add .
-REM git status
-REM git commit -m "Add photos at %Date% %Time%"
-REM git push
+git add *.md */*.html */*.jpg
+git status
+git commit -m "Add photos at %Date% %Time%"
+git push
 echo Web page online
 popd %WebDir%
-REM pause
+pause

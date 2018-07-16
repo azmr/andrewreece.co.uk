@@ -31,5 +31,3 @@ Please have a look at the photos taken on 2018-07-16. They are organized by sess
 
 [2000 Rec Level 4](2000 Rec Level 4)
 
-[test](test)
-

@@ -2,6 +2,7 @@
 title: Gymnastics Photographs by Andrew Reece
 ---
 <link href='/style.css' rel='stylesheet'/>
+<img style='display: inline-block; margin: 1rem' src='http://andrewreece.co.uk/img/AR_logo.svg' alt='AR logo' class='svg' id='ar-logo'>
 Please have a look at the photos taken on 2018-07-16. They are organized by session start time.
 
 [0930 Preschool](0930 Preschool)
@@ -29,4 +30,6 @@ Please have a look at the photos taken on 2018-07-16. They are organized by sess
 [1815 Rec Level 3](1815 Rec Level 3)
 
 [2000 Rec Level 4](2000 Rec Level 4)
+
+[test](test)
 

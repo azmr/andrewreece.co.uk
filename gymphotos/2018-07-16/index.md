@@ -19,8 +19,6 @@ If you have any questions/comments, please email me at azmreece [at] gmail [dot]
 
 [1345 Preschool](1345 Preschool)
 
-[1600 Pre Team](1600 Pre Team)
-
 [1600 Rec Level 1](1600 Rec Level 1)
 
 [1700 Rec Level 2](1700 Rec Level 2)

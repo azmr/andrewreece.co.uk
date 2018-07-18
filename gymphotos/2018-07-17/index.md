@@ -13,29 +13,3 @@ If you have any questions/comments, please email me at azmreece [at] gmail [dot]
 
 [1830 Ruby Room](1830 Ruby Room)
 
-[Elite](Elite)
-
-[1600 Rec Level 1](1600 Rec Level 1)
-
-[1700 Rec Level 2 and 3](1700 Rec Level 2 and 3)
-
-[1830 Ruby Room](1830 Ruby Room)
-
-[Elite](Elite)
-
-[1600 Rec Level 1](1600 Rec Level 1)
-
-[1700 Rec Level 2 and 3](1700 Rec Level 2 and 3)
-
-[1830 Ruby Room](1830 Ruby Room)
-
-[Elite](Elite)
-
-[1600 Rec Level 1](1600 Rec Level 1)
-
-[1700 Rec Level 2 and 3](1700 Rec Level 2 and 3)
-
-[1830 Ruby Room](1830 Ruby Room)
-
-[Elite](Elite)
-

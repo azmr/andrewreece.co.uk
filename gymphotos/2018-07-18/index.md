@@ -19,3 +19,11 @@ If you have any questions/comments, please email me at azmreece [at] gmail [dot]
 
 [1400 Drop In](1400 Drop In)
 
+[1600 Junior Novice and Preteam](1600 Junior Novice and Preteam)
+
+[1600 Pre School](1600 Pre School)
+
+[1815 Senior Novice and Rec](1815 Senior Novice and Rec)
+
+[2000 Rec Level 4](2000 Rec Level 4)
+

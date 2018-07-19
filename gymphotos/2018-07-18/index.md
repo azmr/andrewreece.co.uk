@@ -19,11 +19,3 @@ If you have any questions/comments, please email me at azmreece [at] gmail [dot]
 
 [1400 Drop In](1400 Drop In)
 
-[1600](1600)
-
-[1730 Dance](1730 Dance)
-
-[1800](1800)
-
-[1930](1930)
-

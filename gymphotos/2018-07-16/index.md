@@ -23,13 +23,7 @@ If you have any questions/comments, please email me at azmreece [at] gmail [dot]
 
 [1700 Rec Level 2](1700 Rec Level 2)
 
-[1730 Trampoline](1730 Trampoline)
-
-[1800 Op Nov](1800 Op Nov)
-
 [1815 Rec Level 3](1815 Rec Level 3)
 
 [2000 Rec Level 4](2000 Rec Level 4)
-
-[Portraits](Portraits)
 

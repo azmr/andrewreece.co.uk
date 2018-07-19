@@ -27,3 +27,23 @@ If you have any questions/comments, please email me at azmreece [at] gmail [dot]
 
 [2000 Rec Level 4](2000 Rec Level 4)
 
+[0930 Preschool](0930 Preschool)
+
+[1015 Preschool](1015 Preschool)
+
+[1100 Preschool](1100 Preschool)
+
+[1145 Preschool](1145 Preschool)
+
+[1300 Preschool](1300 Preschool)
+
+[1345 Preschool](1345 Preschool)
+
+[1600 Rec Level 1](1600 Rec Level 1)
+
+[1700 Rec Level 2](1700 Rec Level 2)
+
+[1815 Rec Level 3](1815 Rec Level 3)
+
+[2000 Rec Level 4](2000 Rec Level 4)
+

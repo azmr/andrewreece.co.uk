@@ -43,3 +43,39 @@ If you have any questions/comments, please email me at azmreece [at] gmail [dot]
 
 [1830 Rec and Novice](1830 Rec and Novice)
 
+[0930 Pre School](0930 Pre School)
+
+[1015 Pre School](1015 Pre School)
+
+[1100 Pre School](1100 Pre School)
+
+[1145 Pre School](1145 Pre School)
+
+[1300 Pre School](1300 Pre School)
+
+[1345 Pre School](1345 Pre School)
+
+[1600 Rec](1600 Rec)
+
+[1700 Rec](1700 Rec)
+
+[1830 Rec and Novice](1830 Rec and Novice)
+
+[0930 Pre School](0930 Pre School)
+
+[1015 Pre School](1015 Pre School)
+
+[1100 Pre School](1100 Pre School)
+
+[1145 Pre School](1145 Pre School)
+
+[1300 Pre School](1300 Pre School)
+
+[1345 Pre School](1345 Pre School)
+
+[1600 Rec](1600 Rec)
+
+[1700 Rec](1700 Rec)
+
+[1830 Rec and Novice](1830 Rec and Novice)
+

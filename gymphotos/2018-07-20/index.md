@@ -9,5 +9,9 @@ If you have any questions/comments, please email me at azmreece [at] gmail [dot]
 
 [1300 Elite Spin](1300 Elite Spin)
 
+[1400 Elite](1400 Elite)
+
+[1600 Rec](1600 Rec)
+
 [Nursery](Nursery)
 

@@ -113,6 +113,8 @@ Here's a collection of things I've done that might be of interest. You may also 
 With the help of YouTube, friends and books, I have taught myself to program in a number of languages. Here are a few example projects:
 - [Geometer](https://github.com/azmr/geometer) - *(in progress)* a simple drawing program (made in C) to replicate construction with a compass and straightedge. ![Geometer demo](img/prog-geometer-320.gif){:.gif}
 - [Twinstick Sumo](https://github.com/azmr/twinstick-sumo) - a game made in C over 2 days using an engine built 'from scratch'. The objective is to push your opponent out of the ring by bumping into them and throwing things at them. Covers basic graphics, 1- or 2-player user input, collision detection, AI... ![Twinstick Sumo demo](img/prog-twinstick-320.gif){:.gif}
+- [blit-fonts](https://github.com/azmr/blit-fonts) - a family of small, fast, and simple bitmap fonts in single-file C headers. Particularly intended for software rendering and embedded systems. ![Blit16 demo](img/prog-blit16.png) ![Blit32 demo](img/prog-blit32.png)
+- [colourblind](https://github.com/azmr/colourblind) - a C header file & shader for simulating colourblindness and checking contrast. ![Colourblind demo](img/prog-colourblind-320.png)
 - [Tarmak-CLI](https://github.com/azmr/tarmak-cli) - a script for creating the intermediate key layouts used for learning Colemak.
 - [Shift-Swap](https://github.com/azmr/shift-swap) - a script for changing around keys (numbers/symbols, square brackets/curly braces, escape/caps lock/ctrl) for CLI keyboard layouts.
 - [TimeThis](https://github.com/azmr/timethis) - simple C-based timer to be used on Windows similarly to `time` on Unix (compile times, program execution etc).
@@ -120,7 +122,6 @@ With the help of YouTube, friends and books, I have taught myself to program in 
 
 ## Photography
 I've taken over 10,000 photos of gymnasts performing, mostly from the Loughborough club. Below are a few of my favourites.
-See the [Ember Creations photos](https://www.facebook.com/embercreations/photos/) on Facebook for more.
 
 ![Gymnastics beam mount](img/Gym2.jpg)
 ![Gymnastics Healy](img/Gym3.jpg)
@@ -132,7 +133,8 @@ See the [Ember Creations photos](https://www.facebook.com/embercreations/photos/
 {::comment}![Gymnastics Tkatchev](img/Gym1.jpg){:/comment}
 
 ## Leatherwork
-I make belts, bags, knife sheaths, notebooks and wrist pads (among other things) in the leatherworking I set up:
+I make belts, bags, knife sheaths, notebooks and wrist pads (among other things) in the leatherworking business I set up.
+See the [Ember Creations photos](https://www.facebook.com/embercreations/photos/) on Facebook for more.
 
 ![Leather bag](img/Leather1.jpg)
 {:.screen-width}

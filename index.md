@@ -6,7 +6,7 @@ title: Andrew Reece - Portfolio
 
 # Andrew Reece's Online Portfolio
 
-Here's a collection of things I've done that might be of interest. You may also be interested in [seeing my CV](docs/Andrew_Reece_CV_2017-10-02.pdf), which contains my contact details.
+Here's a collection of things I've done that might be of interest. You may also be interested in [seeing my 1-page CV](docs/Andrew_Reece_CV_2019.pdf), which contains my contact details.
 
 ## Sections
 - [University Coursework (Ergonomics)](#university-coursework)
